@@ -1,16 +1,8 @@
 # responsive_list_with_api_data
 
-A new Flutter project.
+This project is for testing and reviewing the status of an intermediate flutter programmer.
 
-## Getting Started
+The application is presented in three pages, the first page uses Supabase for authentication, but due to a technical fault on the server side, the login and authentication page codes are currently suspended, and the software output currently works with two pages.
+This application is also used to check the programmer's ability to work with the API, which provides a list of currency prices.
+The third page provides details of each currency.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
